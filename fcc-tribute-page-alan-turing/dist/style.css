@@ -1,0 +1,22 @@
+img {
+  max-width: 440px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+figcaption {
+  text-align: center;
+}
+
+section {
+  text-align: center;
+}
